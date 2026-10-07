@@ -1,0 +1,6 @@
+@NeedfulThings_HostAddress = http://localhost:5039
+
+GET {{NeedfulThings_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
