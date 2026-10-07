@@ -1,6 +1,6 @@
 # NeedfulThings
 <img src="https://club-stephenking.fr/wp-content/uploads/images/RESUMES/needfulthings/33%201%20AM%20Bazaar%2042.jpg" width="15%">
-Ce dépôt contient l'application `NeedfulThings` (.NET 9).
+Ce dépôt contient l'application `NeedfulThings` (.NET 10).
 
 ## Objectif
 
