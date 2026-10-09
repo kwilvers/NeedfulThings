@@ -1,6 +1,6 @@
-using NeedfulThings.Application.Repositories;
 using NeedfulThings.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
+using NeedfulThings.Domain.Repositories;
 
 namespace NeedfulThings.Infrastructure.Repositories;
 

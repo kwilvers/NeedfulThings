@@ -1,9 +1,9 @@
 using Serilog;
 using Microsoft.EntityFrameworkCore;
 using NeedfulThings.Infrastructure;
-using NeedfulThings.Application.Repositories;
 using NeedfulThings.Infrastructure.Repositories;
 using Scalar.AspNetCore;
+using NeedfulThings.Domain.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 

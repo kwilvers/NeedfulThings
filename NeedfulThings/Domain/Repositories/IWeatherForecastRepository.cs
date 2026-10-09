@@ -1,6 +1,6 @@
 using NeedfulThings.Domain.Entities;
 
-namespace NeedfulThings.Application.Repositories;
+namespace NeedfulThings.Domain.Repositories;
 
 public interface IWeatherForecastRepository
 {

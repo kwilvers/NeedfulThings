@@ -1,7 +1,7 @@
 ﻿using NeedfulThings.Application.DTOs;
 using NeedfulThings.Application.Mappers;
-using NeedfulThings.Application.Repositories;
 using NeedfulThings.Domain.Entities;
+using NeedfulThings.Domain.Repositories;
 
 namespace NeedfulThings.Application.Services;
 
